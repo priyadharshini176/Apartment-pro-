@@ -1,0 +1,5 @@
+# Copy this file to db.properties and edit the values.
+# db.properties is listed in .gitignore so your password is never pushed to GitHub.
+db.url=jdbc:mysql://localhost:3306/apartment_db
+db.user=root
+db.password=your_mysql_password

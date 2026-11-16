@@ -1,0 +1,22 @@
+# credentials
+db.properties
+
+# build output
+out/
+sources.txt
+*.class
+
+# JDBC driver (download it yourself, see README)
+lib/*.jar
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# IDE / OS
+.idea/
+.vscode/
+*.iml
+.DS_Store
+build/
